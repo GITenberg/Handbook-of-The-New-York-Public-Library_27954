@@ -1,0 +1,29 @@
+_repo: Handbook-of-The-New-York-Public-Library_27954
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: New York Public Library
+    aliases:
+    - Library, New York Public
+    - New York (N.Y.). Public Library
+    - New York (City). Public Library
+    gutenberg_agent_id: '33035'
+    url: http://www.gutenberg.org/2009/agents/33035
+description: ''
+gutenberg_issued: '2009-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27954'
+  lccn: '16014690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Libraries -- Handbooks, manuals, etc.'
+- !lcc 'Z'
+title: Handbook of The New York Public Library
+url: http://www.gutenberg.org/ebooks/27954
